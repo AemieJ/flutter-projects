@@ -1,6 +1,9 @@
 # design_101
 
-A new Flutter project.
+A flutter project specifically focused on the designing of homepage, logo and a dashboard page. One can make use of the design as it is and tweak few features. 
+
+## Demo Look of the App
+![demo page](img/demo.png)
 
 ## Getting Started
 
