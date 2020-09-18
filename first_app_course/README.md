@@ -1,6 +1,6 @@
 # first_app_course
 
-A new Flutter project.
+A basic flutter project for personal likeable quiz made for the understanding of flutter & dart. A beginner app.
 
 ## Getting Started
 
