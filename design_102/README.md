@@ -16,7 +16,7 @@ The PR should follow the dart coding styles only. If it doesn't the PR won't be 
 ## PR that will be accepted 
 PR that will include atleast development of one or more components such as the text along with the button provided. PR that involve creation of an other page of the app will be merged.
 
- The manner in which the PR has to be created is shown [here](). PR that don't abide to this structure won't **be accepted either**.
+ The manner in which the PR has to be created is shown [here](https://github.com/AemieJ/flutter-projects/pull/1). PR that don't abide to this structure won't **be accepted either**.
 
 ## Getting Started
 
